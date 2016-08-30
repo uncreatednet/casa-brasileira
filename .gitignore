@@ -1,0 +1,7 @@
+.dropbox
+*.bak
+*.FCStd1
+*.fcstd1
+*.blend1
+*.blend2
+Unshared/
