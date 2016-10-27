@@ -28,7 +28,7 @@ This house doesn't try to be of any style. It tries to offer a simple and direct
 
 One of the place in the world where modernist architecture has best survived with its original meaning is Brazil. The perfect climate, that in most of the country renders heating or cooling unnecessary, pushed the flourishing of these marvellous houses, nested in the middle of dense native vegetation, where it is possible to open a large part (if not all) of the glass walls, and let the outside enter the house.
 
-"Here is not Italy, this will never work here" said people when the Copenhagen city architects proposed to create throughout the city a series of cycle routes, open spaces, terraces and places for people to simply sit and enjoy being outside. After these were implemented, not only are they extensively used the whole year round, even under freezing temperatures, but they also changed Copenhagen deeply and turned it one of the cities with the highest life quality worldwide. We believe that contact with nature is something we all want, no matter where in the world.
+"Here is not Italy, this will never work here" said people when the Copenhagen city architects proposed to create throughout the city a series of cycle routes, open spaces, terraces and places for people to simply sit and enjoy being outside. After these were implemented, not only are they extensively used the whole year round, even under freezing temperatures, but they also changed Copenhagen deeply and turned it one of the cities with the highest life quality worldwide. Today, the pedestrian, car free shopping area Strøget is the Copenhagen postcard. We believe that contact with nature is something we all want, no matter where in the world.
 
 ![](render/hires%20forest/03.jpg)
 
