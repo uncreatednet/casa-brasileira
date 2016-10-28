@@ -24,16 +24,19 @@ Arquitetos modernistas em todo o mundo, de volta à década de 40, tiveram uma f
 Esta casa não tenta ser de qualquer estilo. Ele tenta oferecer uma conexão simples e direta entre você e o mundo ao seu redor. Isso significa ser capaz de ver, ouvir ou sentir o exterior, e também tocar em matérias-primas, sentir a sua temperatura e sua conexão com a própria terra.
 
 
-### Great climatic behaviour
+### Ótimo comportamento climático
 
 ![](render/hires%20lake/04.jpg)
 
-One of the place in the world where modernist architecture has best survived with its original meaning is Brazil. The perfect climate, that in most of the country renders heating or cooling unnecessary, pushed the flourishing of these marvellous houses, nested in the middle of dense native vegetation, where it is possible to open a large part (if not all) of the glass walls, and let the outside enter the house.
+Um dos lugares no mundo onde a arquitetura modernista melhor sobreviveu com seu significado original é o Brasil. O clima perfeito, que, na maior parte do país torna o aquecimento ou arrefecimento desnecessário, empurrou o florescimento destas casas maravilhosas, aninhadas no meio da densa vegetação nativa, onde é possível abrir uma grande parte (se não toda) das peles de vidro e deixar o lado de fora entrar na casa.
 
-"Here is not Italy, this will never work here" said people when the Copenhagen city architects proposed to create throughout the city a series of cycle routes, open spaces, terraces and places for people to simply sit and enjoy being outside. After these were implemented, not only are they extensively used the whole year round, even under freezing temperatures, but they also changed Copenhagen deeply and turned it one of the cities with the highest life quality worldwide. Today, the pedestrian, car free shopping area Strøget is the Copenhagen postcard. We believe that contact with nature is something we all want, no matter where in the world.
+"Aqui não é a Itália, isto nunca vai funcionar aqui", disse o povo, quando os arquitetos da cidade de Copenhagem propuseram em toda a cidade a criação de uma série de ciclovias, espaços abertos, terraços e lugares para que as pessoas simplesmente pudessem sentar e desfrutar de estar fora. Após terem sido implementados, não só eles são amplamente utilizados durante todo o ano, mesmo sob temperaturas congelantes, mas também mudaram Copenhagen profundamente e tornando-a uma das cidades com maior qualidade de vida em todo o mundo. Hoje, a área comercial pedestre e livre de carros Strøget é o cartão postal de Copenhagem. Acreditamos que o contato com a natureza é algo que todos nós desejamos, não importa onde no mundo.
+
 
 ![](render/hires%20forest/03.jpg)
 
-We cannot leave all our windows open the whole year round, like in Brazil, when we live under more northern latitudes, that is true. That doesn't mean we don't like to open them wide, during the time when it is possible. That also doesn't mean we couldn't enjoy that contact under another form, during the winter months.
+
+Não podemos deixar todas as nossas janelas abertas durante todo o ano, como no Brasil, quando vivemos em latitudes mais ao norte, isso é verdade. Isso não significa que nós não gostaríamos de abri-las amplamente, durante o tempo em que é possível. Isso também não significa que nós não poderíamos aproveitar esse contato sob outra forma, durante os meses de inverno.
+
 
 ![](render/annotated/section.jpg)
