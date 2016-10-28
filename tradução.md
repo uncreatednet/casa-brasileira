@@ -40,3 +40,53 @@ Não podemos deixar todas as nossas janelas abertas durante todo o ano, como no 
 
 
 ![](render/annotated/section.jpg)
+
+1. laje de concreto
+2. teto isolante
+3. piso isolante
+4. vidro de alto desempenho
+5. sombreamento de bambu sobre o vidro ou painéis isolantes
+6. deck de madeira
+
+
+Esta casa oferece grandes paredes de vidro, que podem ser amplamente e sem qualquer controle abertas durante todos os dias de verão, tornando os diferentes espaços interiores totalmente parte do lado de fora, e fazer você se sentir como se estivesse no Brasil. Durante o inverno, o seu isolamento altamente inovador a torna quase uma casa passiva. Uma concha de concreto externa funciona como um exoesqueleto de proteção. No interior, uma caixa térmica, literalmente, uma caixa dentro de outra caixa, é totalmente livre de elementos estruturais, o que a torna também totalmente livre de pontes térmicas, e fácil de aquecer. Tudo isto é conseguido com bom senso, bom pensamento e idéias simples, ao invés de tecnologias pesadas. Esta casa simplesmente não precisa delas. E mesmo durante os dias de inverno rigoroso, você nunca perde o contato com a natureza. Isso visualmente, graças às grandes janelas, mas também por causa dos materiais brutos e simples que estão infiltrados em seu interior.
+
+### Um design de código aberto e internacional
+
+![](render/hires%20lake/08.jpg)
+
+Esta casa adquiriu o conhecimento combinado de uma equipe de arquitetos brasileiros, europeus e norte-americanos. Nós entendemos as qualidades e a sensação única dessas casas brasileiras ideais, sabemos como elas funcionam e o que as faz formidáveis. Nós também temos uma enorme experiência de trabalho em países mais frios, sabemos o que faz um isolamento bom e eficiente, e nós temos ao longo do tempo desenvolvido várias idéias para fazer ambos os lados trabalharem juntos.
+
+![](render/hires%20forest/06.jpg)
+
+O projeto desta casa também tem o código totalmente aberto, o que permite uma alta permeabilidade das ideias. Ao ser usado por outras pessoas, ele também se beneficia do que as outras pessoas fazem, e novas ideias taçhadas no mundo todo são fáceis de adaptar e incorporar. Acreditamos que este é seu o verdadeiro e último significado que a habitação passiva e de baixo consumo deve alcançar, em vez de se tornar refém de poucas soluções de alta tecnologia.
+
+### Quanto custa?
+
+![](render/hires%20forest/07.jpg)
+
+Infelizmente, é impossível dar uma resposta direta a esta pergunta. Existem muitas variáveis que dependem de condições locais, tais como o clima, o terreno, que pode exigir fundações profundas ou não, a disponibilidade e preço dos materiais próximos ao terreno, e de construtores capazes de lidar com as matérias-primas deste casa com qualidade.
+
+No entanto, graças ao uso da tecnologia BIM, uma lista de quantidades está sendo elaborada em conjunto com o projeto. Este quantitativo enumera todos os itens necessários para construir a casa. Com essa lista em mãos, você será capaz de ir a uma empresa de construção, ou orçamentista mais próximo, e pedir para colocar os preços em cada item.
+
+O projeto da casa também pode ser profundamente modificado sem perder suas qualidades fundamentais. Isso permite que uma grande modificação de quantidade de espaço e do orçamento, para cima ou para baixo.
+
+![](render/annotated/plan.jpg)
+
+
+1. sala de estar e sala de jantar "públicos": 35,90 m² / 386,5 SQF
+2. cozinha: 8,55 m² / 92 SQF
+3. entrada/corredor: 28,44 m² / 306 SQF
+4. área de serviço: 5,41 m² / 58 SQF
+5. lavatório: 2,37 m² / 25,5 SQF
+6. banho: 4,78 m² / 51,5 SQF
+7. suíte: 11,30 m² / 121,5 SQF
+8. dormitório: 11,30 m² / 121,5 SQF
+9. dormitório: 11,30 m² / 121,5 SQF
+10. banheiro: 3,51 m² / 38 SQF
+11. escritório: 3,70 m² / 40 SQF
+12. sala de estar "privada": 26,5 m² / 285 SQF
+13. terraço: 70,69 m² / 761 SQF
+
+
+
