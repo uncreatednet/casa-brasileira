@@ -1,26 +1,28 @@
-# The nature house
+# Casa natureza
 
-*concept, project and illustrations by Maíra Zasso and Yorik van Havre, [uncreated.net](http://www.uncreated.net)*
+*conceito, projeto e ilustrações por Maíra Zasso e Yorik van Havre, [uncreated.net](http://www.uncreated.net)*
 
 ![](render/hires%20forest/01.jpg)
 
-A modernist house in the grand tradition of Brazilian modernist dream houses, that works in northern hemisphere climates.
+Uma casa modernista da grande tradição brasileira do ideal das casas modernistas, que funciona para os climas do hemisfério norte.
 
-### Return to the nature
+### Retorno à natureza
 
 ![](render/hires%20lake/02.jpg)
 
-Today we all see that the accelerated industrialization we've been living in during the last decades is going too far. The climate of our planet is suffering dangerously, as well as our own human bodies. We are consuming too much, and relying too much on an endless chain of polluting technologies, each one pretending to solve the problems created by the previous one. Many of us feel the urgent need to escape that cycle, and rediscover a lifestyle more connected to nature and simplicity.
+Hoje todos nós vemos que a industrialização acelerada que nós temos vivido durante as últimas décadas está indo longe demais. O clima do nosso planeta está sofrendo perigosamente, bem como nossos próprios corpos humanos. Estamos consumindo muito, e confiando demais em uma cadeia interminável de tecnologias poluentes, onde cada uma finge resolver os problemas criados pela anterior. Muitos de nós sentem a necessidade urgente de escapar desse ciclo, e redescobrir um estilo de vida mais ligado à natureza e simplicidade.
 
-This house places you inside the nature. At any moment, from any point, you see, hear and feel nature around you. A minimum of artificial, and a maximum of natural. It works of course best on large terrains, but can be accommodated on smaller terrains as well, using of a lot of vegetation and playing intelligently with the topography.
+Esta casa coloca você dentro da natureza. A qualquer momento, a partir de qualquer ponto, você vê, ouve e sente a natureza ao seu redor. Um mínimo de artificial e um máximo de natural. Ela funciona naturalmente melhor em grandes terrenos, mas pode ser acomodada em terrenos menores também, usando muita vegetação e jogando de forma inteligente com a topografia.
 
-### Modernist heritage
+
+### Herança modernista
 
 ![](render/hires%20forest/05.jpg)
 
-Modernist architects all over the world, back in the 40s, had a strong understanding of the need for connection between the human being and natural elements such as fresh air and sun, and the delicate balance between built volumes and open spaces. Unfortunately, after the masters vanished, what their descendants and the world remembered of modernism was the aspect, the white, ascetic forms, and forgot about those very fundamental ideas. The next decades, obviously, saw the emergence of strong anti-modernist movements. Today, we are finally able to make peace with our past, and make something new out of these precious, original ideas.
+Arquitetos modernistas em todo o mundo, de volta à década de 40, tiveram uma forte compreensão da necessidade de uma conexão entre o ser humano e elementos naturais, como ar fresco e sol, e o delicado equilíbrio entre os volumes construídos e espaços abertos. Infelizmente, depois que os mestres desapareceram, o que os seus descendentes e o mundo lembraram do modernismo foi o aspecto, as, formas ascéticas brancas, e esqueceu-se sobre essas ideias muito fundamentais. As próximas décadas, evidentemente, viram o surgimento de fortes movimentos anti-modernistas. Hoje, estamos finalmente em condições de fazer as pazes com nosso passado e fazer algo novo a partir dessas preciosas ideias originais.
 
-This house doesn't try to be of any style. It tries to offer a simple and direct connection between you and the world around you. This means being able to see, hear or feel the outside, but also touch raw materials, feel their temperature, and their connection to the very earth. 
+Esta casa não tenta ser de qualquer estilo. Ele tenta oferecer uma conexão simples e direta entre você e o mundo ao seu redor. Isso significa ser capaz de ver, ouvir ou sentir o exterior, e também tocar em matérias-primas, sentir a sua temperatura e sua conexão com a própria terra.
+
 
 ### Great climatic behaviour
 
